@@ -1,0 +1,36 @@
+body{
+    /* background-color: #FCFCF6; */
+    padding-top: 50px;
+}
+
+
+.navbar-brand{
+    margin-left: 1em;
+} 
+
+
+#darkMode{
+    margin-right: 1em;
+} 
+
+
+#selectContainer{
+    margin-right: 1em;
+}
+
+
+::placeholder{
+    font-size: 0.9em;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+
+/* .mx-auto {
+    margin-right: auto !important;
+    margin-left: 5rem !important;
+    margin-top: 4rem !important;
+  } */
